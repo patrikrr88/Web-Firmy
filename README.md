@@ -10,3 +10,5 @@ Na této stránce najdete různé funkce a informace, o firmě. Snažil jsem se,
 - **Design:** Udržel jsem to minimalistické, ale zároveň hezké.
 
 - **Responzivita** Stránka se sama přisbůsouje velikosti obrazu.
+![footer1]
+![footer2]
